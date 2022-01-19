@@ -14,4 +14,4 @@ JsonPowerDB is a Real-time, High Performance, Lightweight and Simple to Use, Res
 - It helps developers in faster coding, in-turn reduces development cost.
 
 ## Results
-![CRUD operations](git.png)
+![CRUD operations](git.PNG)
